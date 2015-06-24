@@ -1,12 +1,12 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lantana.CDA", "Lantana.CDA\Lantana.CDA.csproj", "{8952670B-09A1-457F-8563-90BDA36AD0B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDALibrary.Core", "CDALibrary.Core\CDALibrary.Core.csproj", "{8952670B-09A1-457F-8563-90BDA36AD0B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lantana.CDA.Tests", "Lantana.CDA.Tests\Lantana.CDA.Tests.csproj", "{074A5966-3780-4624-A35A-81035C66DC53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDALibrary.Core.Tests", "CDALibrary.Core.Tests\CDALibrary.Core.Tests.csproj", "{074A5966-3780-4624-A35A-81035C66DC53}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CF1F490-7126-438C-B39A-8EB7B5C576FC}"
 	ProjectSection(SolutionItems) = preProject
-		Lantana.CDA.vsmdi = Lantana.CDA.vsmdi
+		CDALibrary.Core.vsmdi = CDALibrary.Core.vsmdi
 		Local.testsettings = Local.testsettings
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
@@ -17,7 +17,7 @@ Global
 		Manager = AnkhSVN - Subversion Support for Visual Studio
 	EndGlobalSection
 	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = Lantana.CDA.vsmdi
+		CategoryFile = CDALibrary.Core.vsmdi
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

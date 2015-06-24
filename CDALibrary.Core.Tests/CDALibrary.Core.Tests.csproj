@@ -55,7 +55,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Lantana.CDA\Lantana.CDA.csproj">
+    <ProjectReference Include="..\CDALibrary.Core\CDALibrary.Core.csproj">
       <Project>{8952670B-09A1-457F-8563-90BDA36AD0B7}</Project>
       <Name>Lantana.CDA</Name>
     </ProjectReference>
