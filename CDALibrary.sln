@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lantana.CDA", "Lantana.CDA\Lantana.CDA.csproj", "{8952670B-09A1-457F-8563-90BDA36AD0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lantana.CDA.Tests", "Lantana.CDA.Tests\Lantana.CDA.Tests.csproj", "{074A5966-3780-4624-A35A-81035C66DC53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CF1F490-7126-438C-B39A-8EB7B5C576FC}"
+	ProjectSection(SolutionItems) = preProject
+		Lantana.CDA.vsmdi = Lantana.CDA.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Lantana.CDA.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8952670B-09A1-457F-8563-90BDA36AD0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8952670B-09A1-457F-8563-90BDA36AD0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8952670B-09A1-457F-8563-90BDA36AD0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8952670B-09A1-457F-8563-90BDA36AD0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074A5966-3780-4624-A35A-81035C66DC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074A5966-3780-4624-A35A-81035C66DC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074A5966-3780-4624-A35A-81035C66DC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074A5966-3780-4624-A35A-81035C66DC53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
