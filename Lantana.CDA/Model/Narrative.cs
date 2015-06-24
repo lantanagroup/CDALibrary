@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Xml.Serialization;
 
-using Lantana.CDA.Logic;
+using CDALibrary.Core.Logic;
 
-namespace Lantana.CDA.Model
+namespace CDALibrary.Core.Model
 {
     [System.CodeDom.Compiler.GeneratedCodeAttribute("xsd", "4.0.30319.1")]
     [System.SerializableAttribute()]

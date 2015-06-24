@@ -8,7 +8,7 @@ using System.Text;
 
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Lantana.CDA.Tests
+namespace CDALibrary.Core.Tests
 {
     public static class Helper
     {

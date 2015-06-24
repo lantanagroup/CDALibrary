@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using Lantana.CDA.Model;
-using Lantana.CDA.Logic;
+using CDALibrary.Core.Model;
+using CDALibrary.Core.Logic;
 
-namespace Lantana.CDA.Tests
+namespace CDALibrary.Core.Tests
 {
     
     

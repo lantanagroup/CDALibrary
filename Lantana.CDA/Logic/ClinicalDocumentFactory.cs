@@ -6,10 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
 
+using CDALibrary.Core.Model;
 
-using Lantana.CDA.Model;
-
-namespace Lantana.CDA.Logic
+namespace CDALibrary.Core.Logic
 {
     public static class ClinicalDocumentFactory
     {

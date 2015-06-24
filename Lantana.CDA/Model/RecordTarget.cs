@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-using Lantana.CDA.Logic;
+using CDALibrary.Core.Logic;
 
-namespace Lantana.CDA.Model
+namespace CDALibrary.Core.Model
 {
     public partial class RecordTarget
     {

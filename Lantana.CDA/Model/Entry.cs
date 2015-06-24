@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace Lantana.CDA.Model
+namespace CDALibrary.Core.Model
 {
     public partial class Entry
     {

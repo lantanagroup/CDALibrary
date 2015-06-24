@@ -8,8 +8,8 @@
     <ProjectGuid>{8952670B-09A1-457F-8563-90BDA36AD0B7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lantana.CDA</RootNamespace>
-    <AssemblyName>Lantana.CDA</AssemblyName>
+    <RootNamespace>CDALibrary.Core</RootNamespace>
+    <AssemblyName>CDALibrary.Core</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
